@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("servidores-prog-web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed1b7b6efcf13e2b0239b88f4cab7fb691838c30")]
 [assembly: System.Reflection.AssemblyProductAttribute("servidores-prog-web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("servidores-prog-web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -26,3 +26,32 @@ C:\Users\ruang\OneDrive\Documentos\Trabalhos\servidores-prog-web\obj\Debug\net10
 C:\Users\ruang\OneDrive\Documentos\Trabalhos\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.pdb
 C:\Users\ruang\OneDrive\Documentos\Trabalhos\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.genruntimeconfig.cache
 C:\Users\ruang\OneDrive\Documentos\Trabalhos\servidores-prog-web\obj\Debug\net10.0\ref\servidores-prog-web.dll
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\bin\Debug\net10.0\appsettings.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\bin\Debug\net10.0\servidores-prog-web.staticwebassets.endpoints.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\bin\Debug\net10.0\servidores-prog-web.exe
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\bin\Debug\net10.0\servidores-prog-web.deps.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\bin\Debug\net10.0\servidores-prog-web.runtimeconfig.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\bin\Debug\net10.0\servidores-prog-web.dll
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\bin\Debug\net10.0\servidores-prog-web.pdb
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.sourcelink.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\scopedcss\bundle\servidores-prog-web.styles.css
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.dll
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\refint\servidores-prog-web.dll
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.pdb
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\ref\servidores-prog-web.dll

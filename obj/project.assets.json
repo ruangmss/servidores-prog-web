@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ruang\\.nuget\\packages\\": {}
+    "C:\\Users\\Pichau\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruang\\OneDrive\\Documentos\\Trabalhos\\servidores-prog-web\\servidores-prog-web.csproj",
+      "projectUniqueName": "C:\\Users\\Pichau\\Documents\\Sistemas para Internet\\Programação Web\\Servidor\\servidores-prog-web\\servidores-prog-web.csproj",
       "projectName": "servidores-prog-web",
-      "projectPath": "C:\\Users\\ruang\\OneDrive\\Documentos\\Trabalhos\\servidores-prog-web\\servidores-prog-web.csproj",
-      "packagesPath": "C:\\Users\\ruang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruang\\OneDrive\\Documentos\\Trabalhos\\servidores-prog-web\\obj\\",
+      "projectPath": "C:\\Users\\Pichau\\Documents\\Sistemas para Internet\\Programação Web\\Servidor\\servidores-prog-web\\servidores-prog-web.csproj",
+      "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pichau\\Documents\\Sistemas para Internet\\Programação Web\\Servidor\\servidores-prog-web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ruang\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
