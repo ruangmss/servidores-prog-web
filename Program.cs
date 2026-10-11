@@ -1,30 +1,33 @@
-
-var builder = WebApplication.CreateBuilder(args);
+﻿var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 app.MapGet("/", () => new
 {
+    secao1 = new
+    {
         vantagens = new[]
-    {
-        "- Desempenho de alto nível.",
-        "- Linguagem moderna com tipagem forte",
-        "- Forte presença no mercado corporativo"
+        {
+            "Alto desempenho.",
+            "C# com tipagem forte.",
+            "Compatível com Windows, Linux e macOS."
+        },
+        casoDeUsoIdeal = "API de pedidos para um sistema de comércio eletrônico."
     },
-
-    exemploDeCaso = "Em C# e .NET Core, um Caso de Uso (Use Case) ideal segue os princípios da Clean Architecture (Arquitetura Limpa). Ele deve representar uma única ação de negócio, ser completamente isolado de frameworks (como banco de dados ou APIs) e ser facilmente testável",
-
-    comandos = new[]
+    secao2 = new
     {
-        "Instalação do .NET",
-        "Instalação da extensão C# no VS Code",
-        "Não é necessário nenhum código para resgatar os arquivos necessários",
-        "dotnet run é o comando para inicializar o app"
+        software = ".NET SDK 10",
+        instalacao = "Baixe e instale o .NET SDK 10 do site oficial da Microsoft. A instalação é feita diretamente através de interface gráfica, sem necessidade de linha de comando.",
     },
-
-    conclusao = new[]
+    secao3 = new
     {
-        "A principal dificuldade do grupo foi a configuração do ambiente",
-        "A principal recomendação é se atentar ao modo como o código funciona, pois é uma linguagem de compilação, ou seja, é necessário encerrar e inicializá-lo novamente para atualizá-lo."
+        codigoFonte = File.ReadAllText(Path.Combine(app.Environment.ContentRootPath, "Program.cs")),
+        comandoServidor = "dotnet run",
+        explicacao = "Execute dotnet run na pasta do projeto para compilar e iniciar o servidor."
+    },
+    secao4 = new
+    {
+        dificuldadeInicial = "Configurar o ambiente de desenvolvimento.",
+        recomendacaoDoGrupo = "Recomendamos atentar-se à compilação para verificar as alterações no código e garantir que o servidor esteja funcionando corretamente."
     }
 });
 

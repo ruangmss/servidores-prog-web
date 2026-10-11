@@ -55,3 +55,4 @@ C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\serv
 C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.pdb
 C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.genruntimeconfig.cache
 C:\Users\Pichau\Documents\Sistemas para Internet\Programação Web\Servidor\servidores-prog-web\obj\Debug\net10.0\ref\servidores-prog-web.dll
+C:\Users\ruang\OneDrive\Documentos\Trabalhos\servidores-prog-web\obj\Debug\net10.0\servidores-prog-web.sourcelink.json
